@@ -22,8 +22,11 @@
 > `firebase init` *(Hosting: Confirgure files for Firebase Hosting)*
 
 > *use as public directory:* `dist/project-name` **(!!!)**
+
 > *single page app:* `Y`
+
 > *git hub? :* `N`
+
 **DO NOT OVERWRITE `index.html`!!!**
 
 **Deploy**
