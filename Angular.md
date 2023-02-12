@@ -5,35 +5,36 @@
 
 *npm install -g @angular/cli*
 
-[Telepítési infok](https://www.youtube.com/watch?v=CF1UoJf2j4Q&ab_channel=doroghouse)
+**Telepítési infok**
+> https://www.youtube.com/watch?v=CF1UoJf2j4Q&ab_channel=doroghouse
 
-- Új projekt:
-*ng new ElsoProjekt*
+- **Új projekt:**
+> *ng new ElsoProjekt*
 
-- start:
-*ng serve*
+- **start:**
+> *ng serve*
 
-- Új komponens: 
-*ng g c ElsoKomponens*
+- **Új komponens:**
+> *ng g c ElsoKomponens*
 
-- Új komponens másikon belül:
-*ng g c test/SubTest*
+- **Új komponens másikon belül:**
+> *ng g c test/SubTest*
 
-- Új modul: 
-*ng g m Test*
+- **Új modul:** 
+> *ng g m Test*
 
-- Új direktíva:
-*ng g d TestDirective*
+- **Új direktíva:**
+> *ng g d TestDirective*
 
-- Install bootstrap:
-*npm install bootstrap*
+- **Install bootstrap:**
+> *npm install bootstrap*
 
-- bootstrap include:
-*root > angular.json: styles tömbbe: `["node_modules/bootstrap/dist/css/bootstrap.min.css","src/styles.scss"]`*
+- **bootstrap include:**
+> *root > angular.json: styles tömbbe: `["node_modules/bootstrap/dist/css/bootstrap.min.css","src/styles.scss"]`*
 
-*javascript script tömbbe `["node_modules/bootstrap/dist/js/bootstrap.min.js"]`*
+> *javascript script tömbbe `["node_modules/bootstrap/dist/js/bootstrap.min.js"]`*
 
-*ng g c test --skip-tests* **(komponens .spec fájl nékül)**
+> *ng g c test --skip-tests* **(komponens .spec fájl nékül)**
 
 **ng g c test --help**
 
@@ -54,4 +55,4 @@ angolar.io/api > API List > Filter: pipe
 > https://firebase.google.com/docs/reference/rest/auth
 
 **loading icons:**
-https://loading.io/css
+> https://loading.io/css
