@@ -2,6 +2,9 @@
 
 ### Buildelés *(kész alkalmazás)*:
 
+**Nem használt fájlok eltávolítása (trim)**
+> `npm prune`
+
 > `ng build (--prod)` -> build to production
 
 ### Hosting / Webserver *(static web server)*:

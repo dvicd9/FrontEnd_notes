@@ -11,6 +11,11 @@
 **Új projekt:**
 > *ng new ElsoProjekt*
 
+> *`ng new [name] --skip-git --skip-install --skip-tests`*
+
+**Installálás**
+> `npm install`
+
 **start:**
 > *ng serve*
 
