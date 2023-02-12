@@ -8,28 +8,28 @@
 **Telepítési infok**
 > https://www.youtube.com/watch?v=CF1UoJf2j4Q&ab_channel=doroghouse
 
-- **Új projekt:**
+**Új projekt:**
 > *ng new ElsoProjekt*
 
-- **start:**
+**start:**
 > *ng serve*
 
-- **Új komponens:**
+**Új komponens:**
 > *ng g c ElsoKomponens*
 
-- **Új komponens másikon belül:**
+**Új komponens másikon belül:**
 > *ng g c test/SubTest*
 
-- **Új modul:** 
+**Új modul:** 
 > *ng g m Test*
 
-- **Új direktíva:**
+**Új direktíva:**
 > *ng g d TestDirective*
 
-- **Install bootstrap:**
+**Install bootstrap:**
 > *npm install bootstrap*
 
-- **bootstrap include:**
+**bootstrap include:**
 > *root > angular.json: styles tömbbe: `["node_modules/bootstrap/dist/css/bootstrap.min.css","src/styles.scss"]`*
 
 > *javascript script tömbbe `["node_modules/bootstrap/dist/js/bootstrap.min.js"]`*
